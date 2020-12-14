@@ -48,9 +48,10 @@ Covers the general guidelines for use of the Mandala Exchange logo, colour palle
 A collection of artwork available for content creators to embed in their Mandala Exchange content.
 - Work in Progress
 
-# Blog Graphics
-- Work in Progress
+# Social Channel Graphics
+- Mandala Exchange - [Social Assets](./Mandala_Social_Assets/)
 
 # Social Media
-Mandala Community Memes
-- Work in Progress
+- Mandala Community Memes - [MDX Token](./Mandala_Social_Memes/MDX/)
+- Mandala Community Memes - [Mandala Exchange](./Mandala_Social_Memes/Mandala_Exchange/)
+- Mandala Community Memes - [Mandala Team](./Mandala_Social_Memes/Mandala_Team/)
