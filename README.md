@@ -15,7 +15,9 @@ Covers the general guidelines for use of the Mandala Exchange logo, colour palle
   - Font: [Museo Sans](./Version1_Archive/V1_Fonts/Museo_Sans/)
   - Font: [Museo Slab](./Version1_Archive/V1_Fonts/Museo_Slab/)
 ### 2020 - Mandala.Exchange Version 2 - SUCCESSFUL PROJECT by Mandala Acquisition LLC
-- Mandala.Exchange - [Mandala V2 Brand Guide](./Mandala_Logos_AI/)
+- Mandala.Exchange - [Mandala Exchange Logos AI](./Mandala_Logos_AI/)
+- Mandala.Exchange - [Mandala Exchange Logos PNG](./Mandala_Logos_PNG/)
+- Mandala.Exchange - [Mandala Exchange Logos SVG](./Mandala_Logos_SVG/)
 
 # Mandala Exchange Logos
 
