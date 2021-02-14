@@ -15,7 +15,7 @@ Covers the general guidelines for use of the Mandala Exchange logo, colour palle
   - Font: [Museo Sans](./Version1_Archive/V1_Fonts/Museo_Sans/)
   - Font: [Museo Slab](./Version1_Archive/V1_Fonts/Museo_Slab/)
   
-#### Note: No ICO funding was used during the reboot of the Mandala project. Public knowledge in the MDX Community is that those ICO funds were mismanaged by the owners of Mandala Holdings LLC (Nate Flanders of Fernandina Beach, FL and Anant Handa of Chicago, IL). Any media inquires to the use of the MDX ICO funds should be directed to those two individuals and their legal representatives.
+Note: No ICO funding was used during the reboot of the Mandala project. Public knowledge in the MDX Community is that those ICO funds were mismanaged by the owners of Mandala Holdings LLC (Nate Flanders of Fernandina Beach, FL and Anant Handa of Chicago, IL). Any media inquires to the use of the MDX ICO funds should be directed to those two individuals and their legal representatives.
 
 ### 2020 - Present. [Mandala.Exchange](https://mandala.exchange) Community Funded Reboot. A successful project by Mandala Acquisition LLC. The MDX token holders were migrated to the Mandala reboot project in Q1 2021 to honor their original participation in the MDX ICO.
 - Mandala.Exchange - [Mandala Exchange Logos AI](./Mandala_Logos_AI/)
@@ -27,7 +27,7 @@ Covers the general guidelines for use of the Mandala Exchange logo, colour palle
 <table>
   <tbody>
     <tr>
-      <th colspan="1">Mandala Exchange's Horizontal Logo</th>
+      <th colspan="1">Mandala Exchange's Banner Logos</th>
     </tr>
     <tr>
     <td><img src="./Mandala_Logos_PNG/Mandala_Logo_Horizontal.png" alt="Mandala Exchange" width="750"/></td>
@@ -40,7 +40,7 @@ Covers the general guidelines for use of the Mandala Exchange logo, colour palle
 <table>
   <tbody>
     <tr>
-      <th colspan="2">Mandala Exchange's Vertical Logo</th>
+      <th colspan="2">Mandala Exchange's Square Logos</th>
     </tr>
     <tr>
     <td><img src="./Mandala_Logos_PNG/Mandala_Logo_Vertical.png" alt="Mandala Exchange" width="325"/></td>
@@ -50,5 +50,5 @@ Covers the general guidelines for use of the Mandala Exchange logo, colour palle
 </table>
 
 # Community Social Media Graphics
-- Mandala Community Memes - [MDX Token](./Mandala_Social_Assets/Mandala_Memes/)
-- Mandala Community Wallpapers - [Mandala Exchange](./Mandala_Social_Assets/Mandala_Wallpapers/)
+- Mandala Exchange Community - [Memes](./Mandala_Social_Assets/Mandala_Memes/)
+- Mandala Exchange Community - [Wallpapers](./Mandala_Social_Assets/Mandala_Wallpapers/)
